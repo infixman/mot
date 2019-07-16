@@ -1,0 +1,13 @@
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\bin\Debug\MOT.exe.config
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\bin\Debug\MOT.exe
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\bin\Debug\MOT.pdb
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\bin\Debug\System.ValueTuple.dll
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\bin\Debug\System.ValueTuple.xml
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\obj\Debug\MOT.Form1.resources
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\obj\Debug\MOT.Properties.Resources.resources
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\obj\Debug\MOT.csproj.GenerateResource.cache
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\obj\Debug\MOT.csproj.CoreCompileInputs.cache
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\obj\Debug\MOT.csproj.CopyComplete
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\obj\Debug\MOT.exe
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\obj\Debug\MOT.pdb
+C:\Users\esnchg\Desktop\ek3ek6mot\ek3ek6mot\ek3ek6mot\obj\Debug\MOT.csprojAssemblyReference.cache
